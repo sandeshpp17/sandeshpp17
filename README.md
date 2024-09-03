@@ -1,5 +1,5 @@
 ## Hi there 👋# 💫 About Me:
-🌱 I’m passionate Cloud/DevOps engineer.<br>And learning about python
+🌱 I’m passionate Cloud/DevOps engineer.<br>And learning about python.
 
 
 ## 🌐 Socials:
