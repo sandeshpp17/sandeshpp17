@@ -1,5 +1,5 @@
 ## Hi there 👋# 💫 About Me:
-🌱 I’m passionate Cloud/DevOps engineer.<br>And learning about python.
+🌱 I’m Sandesh Pawar, a DevOps Engineer with 4+ years of experience in Kubernetes, cloud infrastructure, and automation. I’ve worked across Kubernetes administration, CI/CD, GitOps, Docker optimization, monitoring, and high-availability systems, with a strong focus on improving reliability and reducing manual effort
 
 
 ## 🌐 Socials:
